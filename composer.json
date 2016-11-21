@@ -1,0 +1,10 @@
+{
+    "name": "root/tests",
+    "authors": [
+        {
+            "name": "Essalime Rachid",
+            "email": "essalime@hotmail.com"
+        }
+    ],
+    "require": {}
+}
